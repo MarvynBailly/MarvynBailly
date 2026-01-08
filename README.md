@@ -14,6 +14,7 @@
 
 <img src="https://wakatime.com/share/@marvynb/314e82a6-9518-4aef-ad8e-4ab4890e1a1f.svg" alt="Wakatime Stats" height="300" />
 <img src="https://wakatime.com/share/@marvynb/b3c9f349-8504-4f3d-bbd0-0a9c16cfabbe.svg" alt="Wakatime Stats" height="300" />
+
 *Coding statistics since 06 July 2025*
 
 </div>

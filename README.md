@@ -1,5 +1,5 @@
 ## Welcome
 
-![All-time tracked](https://marvyn.com/acatime/figures/wakatime-summary.svg)
+![Marvyn Bailly banner](assets/banner.png)
 
 ![Coding calendar](https://marvyn.com/acatime/figures/wakatime-calendar.svg)
